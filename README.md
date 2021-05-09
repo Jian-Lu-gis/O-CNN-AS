@@ -6,4 +6,4 @@ For information about our data handler, please refer to [OctreetreeVoxelizedPoin
     
 We thank the authors of [O-CNN](https://github.com/microsoft/O-CNN) for sharing their reasearchs with the public.
 
-If you have any questions, please contact me (jian.lu.giscience@hotmail.com).
+If you have any questions, please contact us (jian.lu.giscience@hotmail.com,jianhua.chen.giscience@hotmail.com).
